@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Metallyx a OEM and ventor Trading Platform<br>👯 I’m looking to collaborate on 3 js websites<br>🤝 I’m looking for help with Networking<br>🌱 I’m currently learning Next js <br>💬 Ask me about<br>⚡ Hardcore Gym Rat taking 200gm protein
+🔭 I’m currently working Metallyx a OEM and ventor Trading Platform<br>👯 I’m looking to collaborate on 3 js websites<br>🤝 I’m looking for help with Networking<br>🌱 I’m currently learning Next js <br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
